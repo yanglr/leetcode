@@ -7,7 +7,8 @@ theme:
   name: material
   language: 'zh'
   feature:
-    tabs: true  
+    tabs: true  # 横向导航
+  custom_dir: 'docs/leetcode/'
   palette:
     primary: 'white'
     accent: 'red'
