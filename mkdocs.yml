@@ -6,14 +6,18 @@ repo_url: https://github.com/yanglr/lcdoc
 theme:
   name: material
   language: 'zh'
-  feature:
-    tabs: true  # 横向导航
-  custom_dir: 'docs/leetcode/'
+  features:
+    # - navigation.instant
+    - navigation.sections
+    - navigation.tabs
   palette:
-    primary: 'white'
-    accent: 'red'
-  include_search_page: false
-  search_index_only: true
+    scheme: default
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+  custom_dir: 'docs/leetcode/'
   favicon: 'https://cdn.jsdelivr.net/npm/oicdn@0.0.1/favicon.ico'
 
 markdown_extensions:
