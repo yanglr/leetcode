@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: 玩转力扣
 # Repository
 repo_name: yanglr/lcdoc
 repo_url: https://github.com/yanglr/lcdoc
@@ -6,6 +6,8 @@ repo_url: https://github.com/yanglr/lcdoc
 theme:
   name: material
   language: 'zh'
+  feature:
+    tabs: true  
   palette:
     primary: 'white'
     accent: 'red'
@@ -42,8 +44,8 @@ markdown_extensions:
 # Page tree
 nav:
   - 主页: index.md
-  - 入门:
-    - 安装: getting-started.md
+  - 简介:
+    - 入门: getting-started.md
   - 算法基础:
     - 算法基础简介: algo/introduction.md
     - 数组: algo/array.md
