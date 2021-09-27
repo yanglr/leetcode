@@ -4,8 +4,13 @@ repo_name: yanglr/lcdoc
 repo_url: https://github.com/yanglr/lcdoc
 
 theme:
-  name: material
-  language: 'zh'
+  name: null
+  language: 'zh'  
+  custom_dir: material
+  # 404 page
+  static_templates:
+    - 404.html
+
   features:
     # - navigation.instant
     - navigation.sections
@@ -17,7 +22,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  custom_dir: 'docs/leetcode/'
   favicon: 'https://cdn.jsdelivr.net/npm/oicdn@0.0.1/favicon.ico'
 
 markdown_extensions:
