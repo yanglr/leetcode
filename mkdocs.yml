@@ -7,7 +7,7 @@ theme:
   name: null
   language: 'zh'  
   custom_dir: !ENV [THEME_DIR, "material"]
-  
+
   # 404 page
   static_templates:
     - 404.html
@@ -23,6 +23,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  icon:
+    logo: logo    
+  logo:
+    icon: "\uE80C" 
   favicon: 'https://cdn.jsdelivr.net/npm/oicdn@0.0.1/favicon.ico'
 
 markdown_extensions:
