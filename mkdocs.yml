@@ -1,6 +1,6 @@
 # Project information
 site_name: 玩转力扣
-site_url: https://yanglr.github.io/leetcode/
+site_url: https://yanglr.github.io/solutions/
 site_author: geekzl
 site_description: >-
   极客学长的leetcode刷题笔记
@@ -73,5 +73,5 @@ nav:
     - C++: coding/cpp.md
     - C#: coding/csharp.md    
   - leetcode:
-    - leetcode题解: leetcode/solutions.md
-    - 玩转力扣Tips: leetcode/tips.md
+    - leetcode题解: solutions/intro.md
+    - 玩转力扣Tips: solutions/tips.md
