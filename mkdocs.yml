@@ -23,11 +23,9 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  favicon: assets/favicon.png
   icon:
-    logo: logo    
-  logo:
-    icon: "\uE80C" 
-  favicon: 'https://cdn.jsdelivr.net/npm/oicdn@0.0.1/favicon.ico'
+    logo: logo
 
 markdown_extensions:
   - admonition
