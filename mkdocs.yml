@@ -39,7 +39,9 @@ markdown_extensions:
   - admonition
   - codehilite:
       guess_lang: false
-      linenums: false
+      linenums: true
+  - pymdownx.highlight:
+      linenums: true      
   - toc:
       permalink: true
   - footnotes
