@@ -1,12 +1,12 @@
 # Project information
 site_name: 玩转力扣
-site_url: https://yanglr.github.io/lcdoc/
+site_url: https://yanglr.github.io/leetcode/
 site_author: geekzl
 site_description: >-
   极客学长的leetcode刷题笔记
 # Repository
-repo_name: yanglr/lcdoc
-repo_url: https://github.com/yanglr/lcdoc
+repo_name: yanglr/leetcode
+repo_url: https://github.com/yanglr/leetcode
 
 # Copyright
 copyright: Copyright &copy; 2021 极客学长
