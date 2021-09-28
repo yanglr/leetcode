@@ -75,3 +75,4 @@ nav:
   - leetcode:
     - leetcode题解: solutions/intro.md
     - 玩转力扣Tips: solutions/tips.md
+    - leetcode1 两数之和[简单]: solutions/leetcode1 两数之和[简单].md        
