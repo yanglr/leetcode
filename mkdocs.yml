@@ -45,8 +45,8 @@ plugins:
   - search:
       separator: '[\s\-\.]+'
       prebuild_index: true
-      lang:
-        - en
+      # lang:
+      #   - en
 
 markdown_extensions:
   - admonition
