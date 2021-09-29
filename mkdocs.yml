@@ -47,13 +47,9 @@ theme:
     logo: logo
 
 # Plugins
-#   - search:
-#       separator: '[\s\-\.]+'
-#       prebuild_index: true
-      # lang:
-      #   - en
-  # - minify:
-  #     minify_html: true      
+plugins:
+  - minify:
+      minify_html: true
 
 markdown_extensions:
   - admonition
