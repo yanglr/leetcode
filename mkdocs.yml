@@ -30,9 +30,9 @@ theme:
     - navigation.tabs
     - navigation.expand
     - navigation.top
-    - search.highlight
-    - search.suggest
-    - search.share    
+    # - search.highlight
+    # - search.suggest
+    # - search.share    
   palette:
     scheme: default
     primary: indigo
@@ -52,6 +52,8 @@ theme:
 #       prebuild_index: true
       # lang:
       #   - en
+  # - minify:
+  #     minify_html: true      
 
 markdown_extensions:
   - admonition
