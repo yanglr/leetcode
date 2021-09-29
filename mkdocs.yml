@@ -75,7 +75,7 @@ nav:
     - C++: coding/cpp.md
     - C#: coding/csharp.md    
   - leetcode:
-    - leetcode题解: solutions/intro.md
+    - leetcode题解: solutions/index.md
     - 玩转力扣Tips: solutions/tips.md
     - leetcode1 两数之和[简单]: solutions/leetcode1 两数之和[简单].md        
     - leetcode4 寻找两个正序数组的中位数[困难]: solutions/leetcode4 寻找两个正序数组的中位数[困难].md 
