@@ -10,7 +10,7 @@
 
 ## 📢我们的slogan
 
-本仓库[**leetcode-ac**](https://github.com/yanglr/leetcode-ac)的口号是: AC一时爽, 一直AC一直爽。
+本仓库[leetcode-ac](https://github.com/yanglr/leetcode-ac)的口号是: AC一时爽, 一直AC一直爽。
 
 欢迎关注本项目的同名公众号 **「玩转力扣」**，极客学长带你 **轻松刷 LeetCode**！
 
