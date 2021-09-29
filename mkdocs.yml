@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2021 极客学长
 
 theme:
   name: null
-  language: 'zh'  
+  language: 'en'  
   custom_dir: !ENV [THEME_DIR, "material"]
 
   # 404 page
@@ -28,6 +28,7 @@ theme:
     - navigation.top
     - search.highlight
     - search.suggest
+    - search.share    
   palette:
     scheme: default
     primary: indigo
@@ -42,6 +43,8 @@ theme:
 # Plugins
 plugins:
   - search:
+      separator: '[\s\-\.]+'
+      prebuild_index: true
       lang:
         - en
 
