@@ -8,7 +8,7 @@ tags:
 
 ### [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-<table>    <tr>     <td bgcolor=white>&nbsp; ● &nbsp;难度: </td>    <td bgcolor=#5cb85c width=100%><font color=white>简单</font></td> </tr></table>
+<table>    <tr>     <td bgcolor=white width=auto>&nbsp; ● &nbsp;难度: </td>    <td bgcolor=#5cb85c width=auto><font color=white>简单</font></td> </tr></table>
 
 
 
