@@ -39,6 +39,12 @@ theme:
   icon:
     logo: logo
 
+# Plugins
+plugins:
+  - search:
+      lang:
+        - en
+
 markdown_extensions:
   - admonition
   - codehilite:
