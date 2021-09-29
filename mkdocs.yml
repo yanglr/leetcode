@@ -78,7 +78,7 @@ nav:
     - leetcode题解: solutions/intro.md
     - 玩转力扣Tips: solutions/tips.md
     - leetcode1 两数之和[简单]: solutions/leetcode1 两数之和[简单].md        
-    - 寻找两个正序数组的中位数[困难]: solutions/leetcode4 寻找两个正序数组的中位数[困难].md 
+    - leetcode4 寻找两个正序数组的中位数[困难]: solutions/leetcode4 寻找两个正序数组的中位数[困难].md 
     - leetcode36 有效的数独[中等]: solutions/leetcode36 有效的数独[中等].md
     - leetcode38 外观数列(报数)[中等]: solutions/leetcode38 外观数列(报数)[中等].md
     
