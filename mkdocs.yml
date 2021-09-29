@@ -47,10 +47,9 @@ theme:
     logo: logo
 
 # Plugins
-plugins:
-  - search:
-      separator: '[\s\-\.]+'
-      prebuild_index: true
+#   - search:
+#       separator: '[\s\-\.]+'
+#       prebuild_index: true
       # lang:
       #   - en
 
