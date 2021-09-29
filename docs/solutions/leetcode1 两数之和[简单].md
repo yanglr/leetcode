@@ -1,17 +1,14 @@
 ---
 title: leetcode1 两数之和【简单难度】
-date: 2021-07-17 09:02:48
-permalink: /leetcode1/
-categories:
+tags:
   - leetcode
   - 学习笔记
   - 算法  
-tags:
-  - leetcode
 ---
+
 ### [1. 两数之和](https://leetcode-cn.com/problems/two-sum/)
 
-<table>    <tr>     <td bgcolor=white>&nbsp; ● &nbsp;难度: </td>    <td bgcolor=#5cb85c width=8.5%><font color=white>简单</font></td> <td bgcolor=white　width=79%></td>  </tr></table>
+<table>    <tr>     <td bgcolor=white>&nbsp; ● &nbsp;难度: </td>    <td bgcolor=#5cb85c width=100%><font color=white>简单</font></td> </tr></table>
 
 
 
