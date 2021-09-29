@@ -8,6 +8,10 @@ site_description: >-
 repo_name: yanglr/leetcode
 repo_url: https://github.com/yanglr/leetcode
 
+extra:
+  search:
+    language: 'en'
+
 # Copyright
 copyright: Copyright &copy; 2021 极客学长
 
@@ -33,6 +37,8 @@ theme:
     scheme: default
     primary: indigo
     accent: indigo
+  include_search_page: false
+  search_index_only: true    
   font:
     text: Roboto
     code: Roboto Mono
