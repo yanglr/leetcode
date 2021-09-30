@@ -46,10 +46,10 @@ theme:
   icon:
     logo: logo
 
-# Plugins
-plugins:
-  - minify:
-      minify_html: true
+## Plugins
+# plugins:
+#   - search:
+#       separator: '[\s\-\.]+'
 
 markdown_extensions:
   - admonition
