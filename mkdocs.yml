@@ -1,12 +1,12 @@
 # Project information
 site_name: 玩转力扣
-site_url: https://yanglr.github.io/leetcode
+site_url: https://yanglr.github.io/lcdoc
 site_author: geekzl
 site_description: >-
   极客学长的leetcode刷题笔记
 # Repository
-repo_name: yanglr/leetcode
-repo_url: https://github.com/yanglr/leetcode
+repo_name: yanglr/lcdoc
+repo_url: https://github.com/yanglr/lcdoc
 
 extra:
   search:
@@ -93,8 +93,8 @@ nav:
   - leetcode:
     - leetcode题解: solutions/index.md
     - 玩转力扣Tips: solutions/tips.md
-    - leetcode1 两数之和 - 简单: solutions/leetcode1 两数之和[简单].md        
-    - leetcode4 寻找两个正序数组的中位数 - 困难: solutions/leetcode4 寻找两个正序数组的中位数[困难].md 
-    - leetcode36 有效的数独 - 中等: solutions/leetcode36 有效的数独[中等].md
-    - leetcode38 外观数列(报数) - 中等: solutions/leetcode38 外观数列(报数)[中等].md
+    - leetcode1 两数之和 - 简单: solutions/lcdoc1 两数之和[简单].md        
+    - leetcode4 寻找两个正序数组的中位数 - 困难: solutions/lcdoc4 寻找两个正序数组的中位数[困难].md 
+    - leetcode36 有效的数独 - 中等: solutions/lcdoc36 有效的数独[中等].md
+    - leetcode38 外观数列(报数) - 中等: solutions/lcdoc38 外观数列(报数)[中等].md
     
